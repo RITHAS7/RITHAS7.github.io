@@ -153,10 +153,6 @@ one.addEventListener('click', function() {
     handleNumbers("1");
 });
 
-one.addEventListener('click', function() {
-    handleNumbers("1");
-});
-
 two.addEventListener('click', function() {
     handleNumbers("2");
 });
