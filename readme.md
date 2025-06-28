@@ -51,22 +51,6 @@ calculator/
 2. Open `index.html` in your web browser
 3. Start calculating!
 
-### Local Development
-
-```bash
-# Navigate to the project directory
-cd calculator
-
-# Open with a local server (optional, but recommended)
-# Using Python 3
-python -m http.server 8000
-
-# Using Node.js (if you have http-server installed)
-npx http-server
-
-# Then open http://localhost:8000 in your browser
-```
-
 ## Usage
 
 1. **Basic Calculations**: Click number buttons and operators to build your expression
